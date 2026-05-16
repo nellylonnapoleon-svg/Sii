@@ -1,0 +1,6 @@
+{
+  "name": "FitBite Wellness App",
+  "description": "A premium, minimalist mobile app UI for fitness and wellness tracking with lime green accents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
